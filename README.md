@@ -8,10 +8,10 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusronalkayiss&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9CFF2E&icon_color=0096FF&text_color=D3D3D3&bg_color=0,000000,26001B" alt="yusronalkayiss's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusronalkayiss&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9CFF2E&icon_color=0096FF&text_color=D3D3D3&bg_color=0,000000,323EDD" alt="yusronalkayiss's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusronalkayiss&layout=compact&title_color=9CFF2E&text_color=ffff&bg_color=0,000000,26001B)](https://github.com/yusronalkayiss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusronalkayiss&layout=compact&title_color=9CFF2E&text_color=ffff&bg_color=0,000000,323EDD)](https://github.com/yusronalkayiss/github-readme-stats)
 
 
