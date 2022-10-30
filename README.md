@@ -17,11 +17,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusronalkayiss&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/yusronalkayiss/github-readme-stats)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://www.instagram.com/yusron.thesign/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="mailto:yusronalkhais@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-
-⭐️ From [devSouvik](https://github.com/devSouvik)
