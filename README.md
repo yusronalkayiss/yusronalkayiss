@@ -12,6 +12,6 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusronalkayiss&layout=compact&title_color=9CFF2E&text_color=ffff&bg_color=0,000000,2E0249)](https://github.com/yusronalkayiss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusronalkayiss&layout=compact&title_color=9CFF2E&text_color=ffff&bg_color=0,000000,151515)](https://github.com/yusronalkayiss/github-readme-stats)
 
 
