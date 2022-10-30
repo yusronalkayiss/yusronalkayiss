@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 <h5> &nbsp; I’m currently learning about Web Development and UI/UX Designer </h5>
+ <h5>- 🔭 &nbsp; I’m currently learning about Web Development and UI/UX Designer </h5>
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
