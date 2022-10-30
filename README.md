@@ -2,12 +2,6 @@
 <h6>Currently learning about Web Development and UI/UX Designer</h6>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320"/>
 
-
-
-
-
-<br>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusronalkayiss&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9CFF2E&icon_color=0096FF&text_color=D3D3D3&bg_color=0,000000,150050" alt="yusronalkayiss's Github Stats">
 
 </br>
