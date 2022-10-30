@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusronalkayiss&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9CFF2E&icon_color=0096FF&text_color=D3D3D3&bg_color=00000" alt="yusronalkayiss's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusronalkayiss&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9CFF2E&icon_color=0096FF&text_color=D3D3D3&bg_color=0,000000" alt="yusronalkayiss's Github Stats">
 
 </br>
 
