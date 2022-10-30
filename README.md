@@ -1,9 +1,6 @@
 <h2> Hey there! Ucon Detective here!! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380"/>
 
-<h3>  About Me </h3>
-
- <h5>- 🔭 &nbsp; I’m currently learning about Web Development and UI/UX Designer </h5>
 
 
 
